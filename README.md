@@ -1,7 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="assets/banner.jpeg" alt="Sourav Kumar Banner" width="100%" />
-
+  <img src="image.jpeg" alt="Sourav Kumar Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I'm Sourav Kumar</h1>
